@@ -1,3 +1,5 @@
+# DevOps Assignment -  Blood Bank Management using Apache, Mysql and Docker Compose
+
 You are working in MNC and have been asked by your manager to create a website for
 Blood bank management (Website should contain one login page and web-pages for entering
 and retrieving the donor’s details to and from the database (mysql)).
@@ -10,4 +12,4 @@ mysql server through bind mount.
 3. For web server create a docker file with your name (student name).
 4. Set the environment variables (name: student_name, regno: student’s Reg. no).
 5. Upload the final image on the docker-hub and and project on git-hub (mention the
-link of github in the assignment)
+link of github in the assignment).
